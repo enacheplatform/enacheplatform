@@ -53,6 +53,11 @@ clear scope, constraints, trade-offs and operational impact.
 
 ---
 
+## Certifications
+
+- ![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?logo=microsoft&logoColor=white)
+- ![SC-900](https://img.shields.io/badge/SC--900-Security%20Fundamentals-0078D4?logo=microsoft&logoColor=white)
+
 
 
 
