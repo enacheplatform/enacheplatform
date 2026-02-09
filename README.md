@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # enache.cloud
 
-## 👋 Hi, I’m George Enache
+## 👋 Hi, I’m George
 
 Infrastructure & Hybrid Cloud Engineer with hands-on experience in enterprise environments, 
 working across on-prem datacenters, virtualization and cloud platforms.
